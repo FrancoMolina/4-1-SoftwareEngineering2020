@@ -1,0 +1,58 @@
+!SESSION 2020-04-04 19:06:46.349 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=11.0.5
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data /home/icomp2015/Desktop/ws1 -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-04-04 19:06:59.735
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-04-04 19:21:43.569
+!MESSAGE No repository found at jar:file:/home/icomp2015/Desktop/openjfx-11.0.2_linux-x64_bin-sdk.zip.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-04-04 19:21:44.657
+!MESSAGE No repository found at jar:file:/home/icomp2015/Desktop/javafx-sdk-11.0.2/lib/javafx.media.jar!/.
+!SESSION 2020-04-04 19:23:00.485 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=11.0.5
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -data file:/home/icomp2015/Desktop/ws1/ -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-04-04 19:23:25.321
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-04-04 20:03:04.916
+!MESSAGE No repository found at jar:file:/home/icomp2015/Desktop/openjfx-11.0.2_linux-x64_bin-sdk.zip.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-04-04 20:03:06.200
+!MESSAGE No repository found at jar:file:/home/icomp2015/Desktop/javafx-sdk-11.0.2/lib/javafx.media.jar!/.
+!SESSION 2020-04-07 15:23:32.958 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=11.0.5
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-04-07 15:23:50.279
+!MESSAGE Using Apache MINA sshd as ssh client.
+!SESSION 2020-04-07 15:31:41.761 -----------------------------------------------
+eclipse.buildId=4.12.0.I20190605-1800
+java.version=11.0.5
+java.vendor=Private Build
+BootLoader constants: OS=linux, ARCH=x86_64, WS=gtk, NL=en_US
+Framework arguments:  -product org.eclipse.epp.package.java.product
+Command-line arguments:  -os linux -ws gtk -arch x86_64 -product org.eclipse.epp.package.java.product
+
+!ENTRY org.eclipse.egit.core 1 0 2020-04-07 15:31:57.984
+!MESSAGE Using Apache MINA sshd as ssh client.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-04-07 16:00:21.066
+!MESSAGE No repository found at jar:file:/home/icomp2015/Desktop/openjfx-11.0.2_linux-x64_bin-sdk.zip.
+
+!ENTRY org.eclipse.equinox.p2.metadata.repository 4 1000 2020-04-07 16:00:22.366
+!MESSAGE No repository found at jar:file:/home/icomp2015/Desktop/javafx-sdk-11.0.2/lib/javafx.media.jar!/.
